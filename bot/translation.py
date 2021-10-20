@@ -11,7 +11,7 @@ MOVIES
 
 ☻︎You Cannot Add Me To Your Group
 ☻︎MEGA MIND
- @MC_Movie_Reauests
+ @MC_Movie_Requests
 </i>"""        
     
     HELP_TEXT = """
@@ -51,7 +51,7 @@ MOVIES
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/mc_developers">👤 M&C DEVELOPERS</a></b>
 
-<b>➥ 🎬Series</b> : <b><a href="https://t.me/the_world_of_series">👤TEM SERIES</a></b>
+<b>➥ 🎬Series</b> : <b><a href="https://t.me/the_world_of_series/900">👤TEM SERIES</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
