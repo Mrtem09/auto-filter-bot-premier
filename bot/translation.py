@@ -5,10 +5,13 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🌚🎀
-For More Details Click Help Button Below..
-@sabotschannel
+<i>Am MEGA MIND Am An Advanced Filter bot 
+I 𝑨𝑴 𝑴𝑨𝑫𝑬 𝑻𝑶 𝑫𝑬𝑳𝑰𝑽𝑬𝑹 𝒀𝑶𝑼𝑹 𝑭𝑰𝑳𝑬𝑺
+
+𝑰 𝑨𝑴 𝑵𝑶𝑻 𝑻𝑯𝑬 𝑶𝑹𝑰𝑮𝑰𝑵𝑨𝑳 𝑺𝑶𝑼𝑹𝑪𝑬 𝑪𝑶𝑫𝑬 , 𝑰 𝑾𝑨𝑺 𝑬𝑫𝑰𝑻𝑬𝑫
+
+𝒀𝑶𝑼 𝑪𝑨𝑵𝑻 𝑵𝑶𝑻 𝑨𝑫𝑫 𝑴𝑬 𝑻𝑶 𝒀𝑶𝑼𝑹 𝑮𝑹𝑶𝑼𝑷 𝑩𝑼𝑻 𝑪𝑨𝑵 𝑱𝑶𝑰𝑵
+ @MC_Movie_Reauests
 </i>"""        
     
     HELP_TEXT = """
@@ -54,5 +57,5 @@ For More Details Click Help Button Below..
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://t.me/sabotschannel/12">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/mc_developers/12">💥Click Me</a></b>
 """
