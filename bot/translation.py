@@ -44,14 +44,14 @@ I 𝑨𝑴 𝑴𝑨𝑫𝑬 𝑻𝑶 𝑫𝑬𝑳𝑰𝑽𝑬𝑹 𝒀𝑶𝑼�
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/sunaif_adkar">© sunaif adkar</a></b>
+<b><a href="https://t.me/mc_developers">© M&C DEVEOPERS</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>MEGA MIND Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/sunaif_adkar">👤 Sunaif Adkar</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/mc_developers">👤 M&C DEVELOPERS</a></b>
 
-<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/sabotschannel/19">👤SaMods</a></b>
+<b>➥ 🎬Series</b> : <b><a href="https://t.me/the_world_of_series/19">👤TEM SERIES</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
