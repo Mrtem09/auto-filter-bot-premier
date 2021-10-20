@@ -6,11 +6,11 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am MEGA MIND Am An Advanced Filter bot 
-I 𝑨𝑴 𝑴𝑨𝑫𝑬 𝑻𝑶 𝑫𝑬𝑳𝑰𝑽𝑬𝑹 𝒀𝑶𝑼𝑹 𝑭𝑰𝑳𝑬𝑺
+I Am Made By M&C DEVELOPERS TO BRING YOUR 
+MOVIES
 
-𝑰 𝑨𝑴 𝑵𝑶𝑻 𝑻𝑯𝑬 𝑶𝑹𝑰𝑮𝑰𝑵𝑨𝑳 𝑺𝑶𝑼𝑹𝑪𝑬 𝑪𝑶𝑫𝑬 , 𝑰 𝑾𝑨𝑺 𝑬𝑫𝑰𝑻𝑬𝑫
-
-𝒀𝑶𝑼 𝑪𝑨𝑵𝑻 𝑵𝑶𝑻 𝑨𝑫𝑫 𝑴𝑬 𝑻𝑶 𝒀𝑶𝑼𝑹 𝑮𝑹𝑶𝑼𝑷 𝑩𝑼𝑻 𝑪𝑨𝑵 𝑱𝑶𝑰𝑵
+☻︎You Cannot Add Me To Your Group
+☻︎MEGA MIND
  @MC_Movie_Reauests
 </i>"""        
     
@@ -51,11 +51,11 @@ I 𝑨𝑴 𝑴𝑨𝑫𝑬 𝑻𝑶 𝑫𝑬𝑳𝑰𝑽𝑬𝑹 𝒀𝑶𝑼�
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/mc_developers">👤 M&C DEVELOPERS</a></b>
 
-<b>➥ 🎬Series</b> : <b><a href="https://t.me/the_world_of_series/19">👤TEM SERIES</a></b>
+<b>➥ 🎬Series</b> : <b><a href="https://t.me/the_world_of_series">👤TEM SERIES</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://t.me/mc_developers/12">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/mc_developers">💥Click Me</a></b>
 """
