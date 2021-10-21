@@ -51,8 +51,6 @@ async def start(bot, update):
         InlineKeyboardButton('Source Code 🧾', url ='https://t.me/mc_developers')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/mc_movie_requests')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
