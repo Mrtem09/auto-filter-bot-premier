@@ -5,10 +5,13 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🌚🎀
-For More Details Click Help Button Below..
-@sabotschannel
+<i>Am MEGA MIND Am An Advanced Filter bot 
+I Am Made By M&C DEVELOPERS TO BRING YOUR 
+MOVIES
+
+☻︎You Cannot Add Me To Your Group
+☻︎MEGA MIND
+ @MC_Movie_Requests
 </i>"""        
     
     HELP_TEXT = """
@@ -41,18 +44,18 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/sunaif_adkar">© sunaif adkar</a></b>
+<b><a href="https://t.me/mc_developers">© M&C DEVEOPERS</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>MEGA MIND Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/sunaif_adkar">👤 Sunaif Adkar</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/mc_developers">👤 M&C DEVELOPERS</a></b>
 
-<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/sabotschannel/19">👤SaMods</a></b>
+<b>➥ 🎬Series</b> : <b><a href="https://t.me/the_world_of_series/900">👤TEM SERIES</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://t.me/sabotschannel/12">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/mc_developers">💥Click Me</a></b>
 """
